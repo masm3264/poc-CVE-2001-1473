@@ -1,0 +1,17 @@
+*AppleDouble*
+*swp
+*swo
+*.o
+*dSYM
+*log
+*key
+*gz
+*tar
+*tmp
+*afp
+autom4te.cache
+config.status
+src/.deps/*
+include/config.h
+libtool
+test/*
